@@ -60,3 +60,5 @@ mostrar:
     xor rdi, rdi
     syscall
 
+
+	;...

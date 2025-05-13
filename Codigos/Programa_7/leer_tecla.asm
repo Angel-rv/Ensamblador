@@ -23,3 +23,5 @@ _start:
     mov rax, 60           ; syscall para terminar
     xor rdi, rdi          ; código de salida 0
     syscall
+
+	;...
