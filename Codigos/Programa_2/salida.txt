@@ -1,1 +1,1 @@
-4
+Introduce un número: Es impar

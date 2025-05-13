@@ -1,0 +1,31 @@
+Programa 1. Contar vocales en una cadena: Introduce lógica condicional múltiple, manejo de cadenas, y el uso
+	    de bucles. Es buena practica para contar ocurrencias y  trabajar con texto.
+
+Programa 2. Verificar si un número es par o impar: Sirve para entender operaciones como "AND" y condicionales.
+	    También es fácil de probar en consola.
+
+Programa 3. Obtener el valor ASCII de un caracter: Introduce la idea de trabajar directamente con el código ASCII
+	    de caracteres, lo cual es esencial en muchos programas de bajo nivel.
+
+Programa 4. Convierte un caracter ASCII a mayúscula: Este programa es útil
+	    para entender cómo funciona la codificación ASCII y cómo se pueden manipular los caracteres
+	    con operaciones aritméticas.
+
+Programa 5. Buscar un caracter dentro de una cadena: Este programa es muy útil para practicar búsqueda secuencial.
+	    Refuerza el manejo de punteros, bucles y comparaciones de bytes, habilidades críticas en ASM.
+
+Programa 6. Mostrar los números del 1 al 9: Imprime los digitos del 1 al 9
+	    Este codigo combina bucles y escritura.
+
+Programa 7. Leer un carácter del metodo: Espera que el usuario presione una tecla y la muestre.
+	    Este intruce "sys_read".
+
+Programa 8. Convertir número binario a decimal simple: Convierte 4 bits predefinidos a decimal y lo imprime
+	    Inntroduce manipulación de bits y lógica matemática.
+
+Programa 9 Calcular el factorial de 5: Calcula 5! (5*4*3*2*1) y muestra el resultado.
+	   Usa bucles, multiplicación y lógica condicional.
+
+Programa 10. Detectar si un número es para o impar: Muestra si un número fijo es para o impar.
+	     Te ayuda a reforzar "and" y "jz".
+
